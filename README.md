@@ -6,3 +6,6 @@ Assignment 1
 3. Two-Layer Neural Network
 4. Higher Level Representations: Image Features
 5. Fully-connected Neural Network
+
+Assignment 2
+1. Batch Normalization
