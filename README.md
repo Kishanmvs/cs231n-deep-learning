@@ -9,3 +9,4 @@ Assignment 1
 
 Assignment 2
 1. Batch Normalization
+2. Dropout
