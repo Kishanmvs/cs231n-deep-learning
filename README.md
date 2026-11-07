@@ -12,3 +12,4 @@ Assignment 2
 2. Dropout
 3. Convolutional Networks
 4. PyTorch on CIFAR-10
+5. Image Captioning with Vanilla RNNs
