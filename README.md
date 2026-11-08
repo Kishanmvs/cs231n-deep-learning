@@ -13,3 +13,6 @@ Assignment 2
 3. Convolutional Networks
 4. PyTorch on CIFAR-10
 5. Image Captioning with Vanilla RNNs
+
+Assignment 3
+1. Image Captioning with Transformers
