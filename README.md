@@ -16,3 +16,4 @@ Assignment 2
 
 Assignment 3
 1. Image Captioning with Transformers
+2. Self-Supervised Learning for Image Classification
