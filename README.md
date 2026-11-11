@@ -17,6 +17,6 @@ Assignment 2
 Assignment 3
 1. Image Captioning with Transformers
 2. Self-Supervised Learning for Image Classification
-3.1 Network Visualization: Saliency Maps, Class Visualization, and Fooling Images
-3.2 Denoising Diffusion Probabilistic Models
+3. Network Visualization: Saliency Maps, Class Visualization, and Fooling Images
+3. Denoising Diffusion Probabilistic Models
    
