@@ -19,3 +19,5 @@ Assignment 3
 2. Self-Supervised Learning for Image Classification
 3. Denoising Diffusion Probabilistic Models
 4. CLIP and Dino
+
+Drive Link: https://drive.google.com/drive/folders/1P8pmSHzG9Ahnd28FkboRYPx0Al0oEBMH?usp=sharing
