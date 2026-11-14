@@ -20,4 +20,4 @@ Assignment 3
 3. Denoising Diffusion Probabilistic Models
 4. CLIP and Dino
 
-Drive Link: https://drive.google.com/drive/folders/1P8pmSHzG9Ahnd28FkboRYPx0Al0oEBMH?usp=sharing
+Drive Link: [https://drive.google.com/drive/folders/1P8pmSHzG9Ahnd28FkboRYPx0Al0oEBMH?usp=sharing](https://drive.google.com/drive/folders/1WzWVvKpSXTrZH74PiH5HW9zz5lIt5qWq?usp=drive_link)
