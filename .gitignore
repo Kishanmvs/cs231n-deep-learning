@@ -1,0 +1,5 @@
+
+# Large CS231n datasets
+cs231n/assignments/assignment2/cs231n/datasets/coco_captioning/train2014_vgg16_fc7.h5
+cs231n/assignments/assignment2/cs231n/datasets/coco_captioning/train2014_vgg16_fc7_pca.h5
+cs231n/assignments/assignment2/cs231n/datasets/coco_captioning/val2014_vgg16_fc7_pca.h5
