@@ -3,3 +3,14 @@
 cs231n/assignments/assignment2/cs231n/datasets/coco_captioning/train2014_vgg16_fc7.h5
 cs231n/assignments/assignment2/cs231n/datasets/coco_captioning/train2014_vgg16_fc7_pca.h5
 cs231n/assignments/assignment2/cs231n/datasets/coco_captioning/val2014_vgg16_fc7_pca.h5
+
+# Large Assignment 3 files
+cs231n/assignments/assignment3/cs231n/datasets/coco_captioning/train2014_vgg16_fc7_pca.h5
+
+cat >> .gitignore <<'EOF'
+
+# Large Assignment 3 files
+cs231n/assignments/assignment3/cs231n/datasets/coco_captioning/train2014_vgg16_fc7_pca.h5
+cs231n/assignments/assignment3/cs231n/exp/pretrained/model-70000.pt
+cs231n/assignments/assignment3/cs231n/datasets/coco_captioning/val2014_vgg16_fc7.h5
+cs231n/assignments/assignment3/pretrained_model/pretrained_simclr_model.pth
